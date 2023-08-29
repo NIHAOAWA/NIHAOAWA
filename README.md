@@ -1,7 +1,6 @@
 # 简介
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=NIHAOAWA.)](https://git.io/typing-svg) 
-
 Hi！远方的朋友们，大家好！
 
 我是 你好，一个来自北京的小学生。
