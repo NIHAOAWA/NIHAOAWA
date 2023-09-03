@@ -14,15 +14,15 @@ Hi！远方的朋友们，大家好！
 
 # 我的产品
 
-[ETO_Chat](chat.imnt.or.td)
+[ETO_Chat](https://githubfast.com/imnt-studio/New-ETC))
 
 NIHAO_Bot++
 
 # 友情链接
 
-[PiationESL's Blog](imnt.or.td)
+[PiationESL's Blog](https://imnt.or.td)
 
-[你好的Blog](nihao.imnt.or.td)
+[你好的Blog](https://nihao.imnt.or.td)
 
-[ETO_Chat](chat.imnt.or.td)
+[ETO_Chat](https://chat.imnt.or.td)
 
