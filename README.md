@@ -15,7 +15,7 @@ Hi！远方的朋友们，大家好！
 
 # 我的产品
 
-[ETO_Chat](https://githubfast.com/imnt-studio/New-ETC))
+[ETO_Chat](https://githubfast.com/imnt-studio/New-ETC)
 
 NIHAO_Bot++
 
