@@ -2,10 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=NIHAOAWA.)](https://git.io/typing-svg) 
 
+hi
 
-Hi！远方的朋友们，大家好！
-
-我是 你好，一个来自北京的小学生。
+我是你好，一个来自北京的小学生。
 
 我爱好编程，也曾经参加过聊天室编写。
 
@@ -13,11 +12,11 @@ Hi！远方的朋友们，大家好！
 
 未来梦想成为程序员。
 
-# 我的产品
+# 爱好
 
-[ETO_Chat](https://githubfast.com/imnt-studio/New-ETC)
+编程和航模，
+还曾经在航模领域拿到过全国一等奖
 
-NIHAO_Bot++
 
 # 友情链接
 
