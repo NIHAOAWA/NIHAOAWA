@@ -38,6 +38,8 @@
 
 [ETO_Chat](https://chat.imnt.or.td)
 
+[zhiziqixingdeng的GitHub](https://githubfast.com/zhiziqixingdeng)
+
 # 其它
 
 ## README版本
